@@ -1,30 +1,37 @@
 # Backlog
 
-A collection of user stories you can choose from. Stories inside each priority
-level are not necessarily in order, it's up to your group to decide how they fit
-into your strategy. These are also just suggestion, feel free to change them or
-create your own!
+## Home Page
 
-## Must-Haves
+### Must-Haves
 
-> these are necessary for basic usability
+- [ ] As a user, I want to see the `header` so that I can confirm I’m on the
+      official website and easily access
+      different sections of the website and navigate between pages.
 
-- [ ] As a ... I want to ... so that ...
-  - _Given [context] when [a specific action is performed] then [a set of
-    consequences should occur]_
+- [ ] As a user, I want to see the `short description` so that I can get a quick
+      overview of its features before deciding to view more details.
 
-## Should-Haves
+- [ ] As a user, I want to see the `form` so that I can request a demo of the
+      product.
 
-> these will complete the user experience, but are not necessary
+- [ ] As a user, I want to know the `stats` so that I can be sure that the
+      product meets my quality expectations before making a purchase.
 
-- [ ] As a ... I want to ... so that ...
-  - _Given [context] when [a specific action is performed] then [a set of
-    consequences should occur]_
+- [ ] As a user, I want to know the `setup` so that I can install it by myself.
+
+- [ ] As a user, I want to see the `hero section` so that I can quickly
+      understand the main offering or value of the product and decide whether to
+      explore further.
+
+- [ ] As a user, I want to know the `supported languages` so that I can ensure
+      the tool or platform works with my preferred programming language or
+      environment.
+
+- [ ] As a user, I want to see the `footer` so that I can contact the owner and
+      subscribe and see the latest updates via social media and platforms.
 
 ## Could-Haves
 
-> would be really cool ... if there's time
-
-- [ ] As a ... I want to ... so that ...
-  - _Given [context] when [a specific action is performed] then [a set of
-    consequences should occur]_
+- [ ] As a user, I want to see `hover` so that
+I can interact with elements in a dynamic way,
+providing visual feedback when hovering over buttons or links
