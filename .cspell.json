@@ -14,8 +14,7 @@
     "Christiaan",
     "Verwijs",
     "Todos",
-    "wireframe",
-    "Loruki"
+    "wireframe"
   ],
   "ignorePaths": [
     "node_modules/**",
