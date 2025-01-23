@@ -1,64 +1,66 @@
-# Name of project
+# Loruki
 
-> A longer description
+> This project is for people who are looking for a cloud hosting service
 
 ## Table of contents
 
-- [Name of project](#name-of-project)
-  - [Table of contents](#table-of-contents)
-  - [General info](#general-info)
-  - [Screenshots](#screenshots)
-  - [Technologies](#technologies)
-  - [Setup](#setup)
-  - [Code Examples](#code-examples)
-  - [Features](#features)
-  - [Status](#status)
-  - [Inspiration](#inspiration)
-  - [Contact](#contact)
-  - [Instructions for use](#instructions-for-use)
-  - [Code Quality Checks](#code-quality-checks)
-  - [Continuous Integration (CI)](#continuous-integration-ci)
-  - [Repo Setup](#repo-setup)
+- [Loruki](#loruki)
+- [Table of contents](#table-of-contents)
+- [General info](#general-info)
+- [Screenshots](#screenshots)
+- [Technologies](#technologies)
+- [Setup](#setup)
+- [Code Examples](#code-examples)
+- [Features](#features)
+- [Status](#status)
+- [Inspiration](#inspiration)
+- [Contact](#contact)
+- [Instructions for use](#instructions-for-use)
+- [Code Quality Checks](#code-quality-checks)
+- [Continuous Integration (CI)](#continuous-integration-ci)
+- [Repo Setup](#repo-setup)
 
 ## General info
 
-> A short description
+> A simple website to help you find the best cloud hosting services
 
 ## Screenshots
 
-![Example screenshot](./planning/screenshot.jpg)
+![Example screenshot](/img/screenshot.png)
 
 ## Technologies
 
 - Node 14.16.0
 - VSC code
-- JavaScript
-- ...
-- ...
+- CSS
+- HTML
 
 ## Setup
 
-- `npm run start`
+- git clone <https://github.com/BF-FrontEnd-class-2025/group-1-loruki.git>
+- npm install
 
 ## Code Examples
 
-```js
-// the hello world program
-console.log("Hello World");
+```html
+ <!-- Navbar -->
+    <div class="navbar">
+        <div class="container flex">
+             <h1 class="logo"><a href="index.html">Loruki.</a></h1>
+            <nav>
+                <ul>
+                    <li><a href="index.html">Home</a></li>
+                    <li><a href="features.html">Features</a></li>
+                    <li><a href="docs.html">Docs</a></li>
+                </ul>
+            </nav>
+        </div>
+    </div>
 ```
 
 ## Features
 
-List of features ready and Todos for future development
-
--
--
--
-
-To-do list:
-
--
--
+![Example screenshot](/img/features.png)
 
 ## Status
 
@@ -70,7 +72,15 @@ Project by freeCodeCamp.org
 
 ## Contact
 
-By [Name]
+### By
+
+   [Melbana](https://github.com/MElbanna200/MElbanna200.git)
+
+   [Arsan](https://github.com/A-SHA256/A-SHA256.git)
+
+   [Susana](https://github.com/SusanaLoaiza/SusanaLoaiza.git)
+
+   [anton](https://github.com/antonaksyuk/antonaksyuk.git)
 
 ## Instructions for use
 
