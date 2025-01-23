@@ -62,7 +62,7 @@ what the page is about.
 how to use the product and maximize its features.
 
 - [ ] As a user, I want to see the `footer` so that I can contact the owner and
-      subscribe and see the latest updates via social media and platforms.
+    subscribe and see the latest updates via social media and platforms.
 
 ### Could-Haves
 
