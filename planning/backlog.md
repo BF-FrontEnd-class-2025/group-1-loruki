@@ -59,10 +59,10 @@ description and can better understand how it will meet my needs and expectations
 what the page is about.
 
 - [ ] As a user, I want to see the `docs main` so that I can fully understand
-how to use the product and maximize its features.
+how to use the product and maximize its features and strengths.
 
 - [ ] As a user, I want to see the `footer` so that I can contact the owner and
-  subscribe and see the latest updates via social media and platforms.
+subscribe and see the latest updates via social media and platforms.
 
 ### Could-Haves
 
