@@ -30,7 +30,7 @@
 - [ ] As a user, I want to see the `footer` so that I can contact the owner and
       subscribe and see the latest updates via social media and platforms.
 
-## Features Page
+## Features Page user stories
 
 ### Must-Haves
 
