@@ -12,7 +12,9 @@ Loruki | Cloud Hosting For Everyone
 
 ---
 
-## Header
+## Home Page
+
+### Header
 
 _HTML_
 
@@ -124,6 +126,88 @@ _CSS_
 - Style `container flex` with flex, size and margin
 - Style `card` with text, transition and border properties
 - Style h4 with with font and margin
+
+## Footer
+
+_HTML_
+
+- Add a footer tag with class `footer bg-dark py-5`
+- Add a div tag with class `container grid grid-3`
+- Add a div with a h1 and p element
+- Add a nav
+- Add a unordered list with 3 li items and hyperlinks
+- Add a div tag with class `social` with 4 hyperlinks
+- Add a a i tag for the 4 hyperlinks
+
+_CSS_
+
+- Style `footer bg-dark py-5` with padding
+- Style `container grid grid-3` with grid, display and size properties
+- Style h1 with font and margin
+- Style P tag with margin
+- Style ul with list properties
+- Style li and a tags with text properties
+
+## Features Page
+
+### Header
+
+_HTML_
+
+- Add body tag
+- Add a div tag with class `navbar`
+- Add a div tag with class `container flex`
+- Add a h1 tag with class `logo` and a hyperlink
+- Add a nav tag with an unordered list
+- Add 3 list items each one with a hyperlink
+
+_CSS_
+
+- Style `nav-bar` and `container flex` class which include display and padding
+- Style `logo` class which includes display and margin
+- Style the list items with list and text properties
+
+## Head
+
+_HTML_
+
+- Add section tag with class `features-head`
+- Add div with a class `container grid`
+- Add h1 with class `xl`
+- Add a p tag class `lead`
+- Add a img
+
+_CSS_
+
+- Style `features-head` with padding
+- Style `container grid` grid and size
+- Style `xl` font properties
+- Style `lead` with margin and font
+
+## Subhead
+
+_HTML_
+
+- Add a section with class `features-sub-head `
+- Add a div class `container grid`
+- Add a div with a h1 class `md` and a p
+- Add a div with an img
+- Add a section with class `features-main my-2`
+- Add a div with class `container grid grid-3`
+- Add a div with class `card flex`
+- Add i with class `fas fa-server`
+- Add a div with class `card flex`and 4 div
+
+_CSS_
+
+- Style `features-sub-head ` with padding
+- Style `container grid` with grid and padding
+- Style `md` with font and margin
+- Style `features-main my-2` margin
+- Style `container grid grid-3` grid and size
+- Style `card flex` margin, padding and flex
+- Style `fas fa-server` font and margin
+- Style `card flex` flex margin pa
 
 ## Footer
 
