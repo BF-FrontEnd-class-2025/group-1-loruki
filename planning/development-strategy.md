@@ -31,7 +31,7 @@ _CSS_
 - Style `logo` class which includes display and margin
 - Style the list items with list and text properties
 
-## Short Description
+### Short Description
 
 _HTML_
 
@@ -50,7 +50,7 @@ _CSS_
 - Style h1, p , and hyperlink wih font properties
 - Style `showcase-form card` with animation, position and padding
 
-## Forms
+### Forms
 
 _HTML_
 
@@ -62,7 +62,7 @@ _CSS_
 - Style `form-control` with margin
 - Style `btn btn-primary` with padding, display and border
 
-## Stats
+### Stats
 
 _HTML_
 
@@ -80,7 +80,7 @@ _CSS_
 - Style `stats-heading text-center my-4` with grid properties
 - Style hyperlink, h3 and p elements with text properties
 
-## SetUp
+### SetUp
 
 _HTML_
 
@@ -95,7 +95,7 @@ _CSS_
 - Style `card` with padding and margin etc
 - Style h3 with font properties and margin
 
-## Hero Section
+### Hero Section
 
 _HTML_
 
@@ -110,7 +110,7 @@ _CSS_
 - Style `container grid` with grid and size properties
 - Style `text-center`, h2, p and hyperlink with font properties
 
-## Supported Languages
+### Supported Languages
 
 _HTML_
 
@@ -127,7 +127,7 @@ _CSS_
 - Style `card` with text, transition and border properties
 - Style h4 with with font and margin
 
-## Footer
+### Footer
 
 _HTML_
 
@@ -167,7 +167,7 @@ _CSS_
 - Style `logo` class which includes display and margin
 - Style the list items with list and text properties
 
-## Head
+### Head
 
 _HTML_
 
@@ -209,7 +209,111 @@ _CSS_
 - Style `fas fa-server` font and margin
 - Style `card flex` flex margin pa
 
-## Footer
+### Footer
+
+_HTML_
+
+- Add a footer tag with class `footer bg-dark py-5`
+- Add a div tag with class `container grid grid-3`
+- Add a div with a h1 and p element
+- Add a nav
+- Add a unordered list with 3 li items and hyperlinks
+- Add a div tag with class `social` with 4 hyperlinks
+- Add a a i tag for the 4 hyperlinks
+
+_CSS_
+
+- Style `footer bg-dark py-5` with padding
+- Style `container grid grid-3` with grid, display and size properties
+- Style h1 with font and margin
+- Style P tag with margin
+- Style ul with list properties
+- Style li and a tags with text properties
+
+## Docs
+
+### Header
+
+_HTML_
+
+- Add body tag
+- Add a div tag with class `navbar`
+- Add a div tag with class `container flex`
+- Add a h1 tag with class `logo` and a hyperlink
+- Add a nav tag with an unordered list
+- Add 3 list items each one with a hyperlink
+
+_CSS_
+
+- Style `nav-bar` and `container flex` class which include display and padding
+- Style `logo` class which includes display and margin
+- Style the list items with list and text properties
+
+### Head
+
+_HTML_
+
+- Add a section with a class `docs-head bg-primary py-3`
+- Add a div with a class `container grid`
+- Add a div with a h1 class `xl`
+- Add a p tag class `lead`
+- Add a img
+
+_CSS_
+
+- Style `docs-head bg-primary py-3` with padding
+- Style `container grid` with grid and padding
+- Style `xl` font properties and margin
+- Style `lead` with margin and font
+- Style img with size and overflow
+
+### Main
+
+_HTML_
+
+- Add a section with class `docs-main my-4`
+- Add a div with class `container grid`
+- Add a div with class `card bg-light p-1`
+- Add a h3 with class `my-2`
+- Add a nav with an ul and 3 list items
+- Add a hyperlink to each list item
+- Add a class to the first hyperlink as `text-primary`
+- Add a h3 with class `my-2`
+- Add a nav with ul and 4 list items
+- Add for each list items a hyperlink
+- Add a div with class `card`
+- Add a h2 and a p element
+- Add a div with class `alert alert-success`
+- Add a i tag with class `fas fa-info`
+- Add a h3 and a p element
+- Add a hyperlink with class `btn btn-primary`
+- Add a h3
+- Add a unordered list with 2 list items
+- Add a h3 and p tag
+- Add a 3 pre tag with code tag
+
+_CSS_
+
+- Style `docs-main my-4` with margin and display
+- Style `container grid` with grid and padding
+- Style `card bg-light p-1` with padding and border
+- Style `my-2` with margin and font
+- Style nav with a display
+- Style ul and li items with list and font
+- Style hyperlinks with text properties
+- Style `card` with margin and padding
+- Style h2 and p with margin and text properties
+- Style `alert alert-success` with padding and font
+- Style `fas fa-info` with margin and font
+- Style h3 and p with margin and text properties
+- Style `btn btn-primary` with padding and border
+- Style h3 with margin and font properties
+- Style ul with margin, padding and list properties
+- Style li with text
+- Style h3 with margin and font properties
+- Style pre and code with font and padding
+
+### Footer
 
 _HTML_
 
